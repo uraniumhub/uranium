@@ -1,0 +1,9 @@
+Building Uranium
+
+See doc/readme-qt.rst for instructions on building Uranium-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Uranium.
+
+See doc/build-*.txt for instructions on building uraniumd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Uranium.
